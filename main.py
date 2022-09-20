@@ -24,16 +24,16 @@ def on_startup():
     
 
 # Home page 
-@app.get("/")
-async def root():    
-    return {
-        "Name": "Nwokoro V Oluoma",
-        "Department": "Computer Science",
-        "Course Title": "Introduction to Computer Science",
-        "Course Code": "123",
-        "Lecturer Name": "Dr. Python", 
-        "Assignment link": "https://nwokoro.deta.dev/docs"
-    }
+# @app.get("/")
+# async def root():    
+#     return {
+#         "Name": "Nwokoro V Oluoma",
+#         "Department": "Computer Science",
+#         "Course Title": "Introduction to Computer Science",
+#         "Course Code": "123",
+#         "Lecturer Name": "Dr. Python", 
+#         "Assignment documentaion": "https://nwokoro.deta.dev/docs"
+#     }
     
     
     
