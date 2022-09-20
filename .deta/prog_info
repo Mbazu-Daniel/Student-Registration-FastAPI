@@ -1,0 +1,1 @@
+{"id":"57d4a7ac-e941-410d-841e-01f611049137","space":32762,"runtime":"python3.9","name":"student","path":"3at020","project":"a088e1v5","account":"144798365827","region":"eu-central-1","deps":["fastapi","sqlmodel","pydantic","uvicorn","gunicorn","fastapi_offline"],"envs":null,"public":true,"log_level":"off","cron":""}

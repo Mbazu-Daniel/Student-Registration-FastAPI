@@ -31,7 +31,8 @@ async def root():
         "Department": "Computer Science",
         "Course Title": "Introduction to Computer Science",
         "Course Code": "123",
-        "Lecturer Name": "Dr. Python"
+        "Lecturer Name": "Dr. Python", 
+        "Assignment link": "https://nwokoro.deta.dev/docs"
     }
     
     
