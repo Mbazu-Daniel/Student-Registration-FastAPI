@@ -3,3 +3,4 @@ sqlmodel
 pydantic 
 uvicorn
 gunicorn
+fastapi_offline
